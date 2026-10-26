@@ -12,7 +12,4 @@
 
 ---
 
-**[`procgen-canyon`](https://github.com/corebirddev/procgen-canyon)** — endless low-poly canyon
-flyover in one file. The terrain trick behind the game, MIT'd for anyone to fork.
-
 Building in public. Bugs and feedback → `hello@corebird.dev`
